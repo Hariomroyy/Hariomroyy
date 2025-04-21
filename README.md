@@ -18,10 +18,9 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 Currently pursuing **BCA (6th Semester)** from Mangalayatan University  
-- 📘 Also completed a diploma from **BIA**  
-- 💻 Passionate about **Data Science, AI, Machine Learning, and Deep Learning**  
-- 🧠 Always eager to learn and build real-world data-driven solutions  
-- 🚀 Currently working on projects in **Computer Vision, NLP, and Power BI**
+- 🎓 Currently enrolled in a diploma program at **BIA**  
+- 💻 Passionate about **Data Science, AI, and Machine Learning**
+- 🧠 Always eager to learn and build data-driven skills for real-world problem solving  
 
 ---
 
@@ -44,20 +43,8 @@
 
 ---
 
-### 📌 Projects Highlights
-
-Here are some of my key projects:
-
-- 🏠 **House Price Prediction** – Regression model using Scikit-learn with 89% accuracy  
-- 🗣️ **Sentiment Analysis on Twitter Data** – Text classification with NLP  
-- 🔢 **Image Classification** – CNN model for digit recognition (MNIST)  
-- 📈 **Power BI COVID-19 Dashboard** – Visual analytics dashboard with DAX
-
-Check out my repositories for more cool stuff! 🔍
-
----
-
 ### 📫 Let's Connect!
 
-Feel free to connect or collaborate on data projects. I’m always open to learning and sharing!
+Feel free to connect or collaborate on learning projects.  
+I’m always open to exploring new tools and improving my skills!
 
