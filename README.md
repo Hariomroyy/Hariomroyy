@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariom Roy</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | BCA Student @ Mangalayatan University</h3>
+<h3 align="center">Data Analyst Trainee @ Kinben | Aspiring Data Scientist | AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hariom-roy-7a23b02b5" target="_blank">
@@ -14,8 +14,9 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Currently pursuing **BCA (6th Semester)** from Mangalayatan University  
-- 🎓 Currently enrolled in a diploma program at **BIA**  
+- 🎓 Completed **Bachelor of Computer Applications (BCA)** from Mangalayatan University  
+- 🎓 Completed Diploma from **BIA**  
+- 💼 Currently working as a **Data Analyst Trainee at Kinben**  
 - 💻 Passionate about **Data Science, AI, and Machine Learning**
 - 🧠 Always eager to learn and build data-driven skills for real-world problem solving  
 
@@ -44,4 +45,3 @@
 
 Feel free to connect or collaborate on learning projects.  
 I’m always open to exploring new tools and improving my skills!
-
